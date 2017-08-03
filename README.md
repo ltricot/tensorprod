@@ -1,4 +1,4 @@
-# tensorprod
+# tensorprod #
 
 Tensorflow is a great framework if you build your models for the purpose of production use:
 TF Serving helps you deploy models and serve them with an API ; TF Mobile enables
@@ -13,10 +13,10 @@ Just flip a switch (...inherit from a mixin) and the functionality you want will
 
 Work in progress.
 
-# TODO in this README.md
+## TODO in this README.md ##
 - [ ] High level description of each subpackage
 
-# TODO in mixit's README.md:
+## TODO in mixit's README.md: ##
 - [ ] Description of the `interfaces` module.
 - [ ] List of mixins and their functionality
 
